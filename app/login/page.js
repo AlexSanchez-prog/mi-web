@@ -2,7 +2,7 @@
   return (
     <div>
       <h1>Login</h1>
-      <p>Aquí irá el formulario</p>
+      <p>HOLAAAAAAAAAAAAAAAAAAA</p>
     </div>
   )
 }
